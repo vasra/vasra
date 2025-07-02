@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @vasra
-- 👀 I’m mainly interested in Embedded Systems and C++
-- 🌱 I’m currently learning C++ and VHDL
+- 👀 I’m mainly interested in C++
